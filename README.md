@@ -16,7 +16,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 4.Model Evaluation: Assess model performance using metrics like accuracyprecisioon,recall.
 
-5.Prediction: Predict placement status for new student data using trained model.
+5.Prediction: Predict placement status for new student data using trained model. 
 
 6.End of program. 
 
